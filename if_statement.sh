@@ -1,31 +1,3 @@
-# 波を　ちゃぷちゃぷ
-# ちゃぷちゃぷ　かきわけて
-# (ちゃぷ　ちゃぷ　ちゃぷ)
-# 雲を　すいすい
-# すいすい　追い抜いて
-# (すい　すい　すい)
-# ひょうたん島は　どこへ行く
-# ぼくらを乗せて　どこへ行く
-# ウーー　ウーー
-# 丸い地球の　水平線に
-# 何かがきっと　待っている
-# 苦しいことも　あるだろさ
-# 悲しいことも　あるだろさ
-# だけど　ぼくらは　くじけない
-# 泣くのはいやだ　笑っちゃおう(注)
-# 進め
-# ひょっこりひょうたん島
-# ひょっこりひょうたん島
-# ひょっこりひょうたん島
-#integer_1 -eq integer_2	integer_1 is equal to integer_2
-#integer_1 -ne integer_2	integer_1 is not equal to integer_2
-#integer_1 -gt integer_2	integer_1 is greater than integer_2
-#integer_1 -ge integer_2	integer_1 is greater than or equal to integer_2
-#integer_1 -lt integer_2	integer_1 is less than integer_2
-#integer_1 -le integer_2	integer_1 is less than or equal to integer_2
-
-
-
 # nested if statement
 
 integer=4
